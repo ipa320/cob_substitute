@@ -1,2 +1,0 @@
-cob_substitute
-==============

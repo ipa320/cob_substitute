@@ -1,0 +1,15 @@
+<package>
+
+  <name>cob_lbr</name>
+  <version>0.1.0</version>
+  <description>cob_lbr</description>
+  <maintainer email="dummy@dummy.com">dummy</maintainer>
+  <license>LGPL</license>
+  <url>http://ros.org/wiki/cob_lbr</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>rospy</run_depend>
+
+</package>
+

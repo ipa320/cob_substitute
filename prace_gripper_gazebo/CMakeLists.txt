@@ -9,29 +9,11 @@ find_package(catkin REQUIRED)
 ## catkin specific configuration ##
 ###################################
 
-catkin_package(
-    CATKIN_DEPENDS #TODO
-    INCLUDE_DIRS #TODO
-    LIBRARIES ${PROJECT_NAME}
-)
-
-###########
-## Build ##
-###########
-
-# add include search paths
-include_directories(${catkin_INCLUDE_DIRS})
+catkin_package()
 
 #############
 ## Install ##
 #############
-
-## Mark executables and/or libraries for installation
-# install(TARGETS ${PROJECT_NAME}
-#   ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-# )
 
 # Install urdf files
 install(DIRECTORY controller/

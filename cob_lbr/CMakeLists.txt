@@ -9,30 +9,13 @@ find_package(catkin REQUIRED COMPONENTS rospy)
 ## catkin specific configuration ##
 ###################################
 
-catkin_package(
-    CATKIN_DEPENDS rospy
-    INCLUDE_DIRS #TODO
-    LIBRARIES ${PROJECT_NAME}
-)
-
-###########
-## Build ##
-###########
-
-# add include search paths
-include_directories(${catkin_INCLUDE_DIRS})
+catkin_package()
 
 #############
 ## Install ##
 #############
 
-## Mark executables and/or libraries for installation
-# install(TARGETS ${PROJECT_NAME}
-#   ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-# )
-
 # install scripts
 install(PROGRAMS scripts/cob_lbr scripts/service_interface.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+  USE_SOURCE_PERMISSIONS)

@@ -17,5 +17,4 @@ catkin_package()
 
 # install scripts
 install(PROGRAMS scripts/cob_lbr scripts/service_interface.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-  USE_SOURCE_PERMISSIONS)
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})

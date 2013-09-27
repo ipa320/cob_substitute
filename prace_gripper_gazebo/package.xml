@@ -1,0 +1,19 @@
+<package>
+  <name>prace_gripper_gazebo</name>
+  <version>0.1.0</version>
+  <description>prace_gripper_gazebo</description>
+  <maintainer email="aub@ipa.fhg.de">Alexander Bubeck</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/prace_gripper_gazebo</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <author email="aub@ipa.fhg.de">Alexander Bubeck</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+
+  </export>
+</package>

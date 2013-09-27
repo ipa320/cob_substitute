@@ -1,0 +1,13 @@
+<package>
+  <name>prace_gripper_description</name>
+  <version>0.1.0</version>
+  <description>prace_gripper_description</description>
+
+  <maintainer email="alexander.bubeck@not.known">Alexander Bubeck</maintainer>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/prace_gripper_description</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
+

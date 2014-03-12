@@ -13,5 +13,4 @@ catkin_package(
 
 install(PROGRAMS driver.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
-)
 

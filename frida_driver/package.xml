@@ -1,12 +1,12 @@
 <package>
-  <name>prace_gripper_gazebo</name>
+  <name>frida_driver</name>
   <version>0.1.0</version>
-  <description>prace_gripper_gazebo</description>
+  <description>frida_driver</description>
   <maintainer email="aub@ipa.fhg.de">Alexander Bubeck</maintainer>
 
   <license>BSD</license>
 
-  <url type="website">http://ros.org/wiki/prace_gripper_gazebo</url>
+  <url type="website">http://ros.org/wiki/frida_driver</url>
   <!-- <url type="bugtracker"></url> -->
 
   <author email="aub@ipa.fhg.de">Alexander Bubeck</author>

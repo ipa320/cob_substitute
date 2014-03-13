@@ -11,6 +11,3 @@ catkin_package(
     LIBRARIES # TODO
 )
 
-install(PROGRAMS driver.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
-

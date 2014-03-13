@@ -1,0 +1,14 @@
+<package>
+  <description brief="frida_driver">
+
+     dummy driver for frida
+
+  </description>
+  <author>IPA320</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/frida_driver</url>
+
+</package>
+
+

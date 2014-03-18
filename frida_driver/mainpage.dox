@@ -2,9 +2,9 @@
 \mainpage
 \htmlinclude manifest.html
 
-\b prace_gripper_gazebo 
+\b frida_driver
 
-<!-- 
+<!--
 Provide an overview of your package.
 -->
 
@@ -12,3 +12,4 @@ Provide an overview of your package.
 
 
 */
+

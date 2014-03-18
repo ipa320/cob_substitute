@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <!-- this is an empty fake camera_holder for the open source repositories -->
+  <xacro:macro name="teachin_handle" params="parent name *origin">
+<!--
+  <joint name="${name}_left_joint" type="fixed" >
+    <insert_block name="origin" />
+    <parent link="${parent}" />
+    <child link="${name}_left_6_link" />
+  </joint>
+
+  <link name="${name}_left_6_link"/>
+
+  <joint name="${name}_right_joint" type="fixed" >
+    <insert_block name="origin" />
+    <parent link="${parent}" />
+    <child link="${name}_right_6_link" />
+  </joint>
+
+  <link name="${name}_right_6_link"/>
+-->
+  </xacro:macro>
+
+</robot>

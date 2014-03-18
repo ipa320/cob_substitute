@@ -1,6 +1,6 @@
 # http://ros.org/doc/groovy/api/catkin/html/user_guide/supposed.html
 cmake_minimum_required(VERSION 2.8.3)
-project(prace_gripper_gazebo)#
+project(prace_gripper_driver)
 
 find_package(catkin REQUIRED )
 
@@ -11,6 +11,3 @@ catkin_package(
     LIBRARIES # TODO
 )
 
-install(DIRECTORY controller/
-    DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/controller
-)

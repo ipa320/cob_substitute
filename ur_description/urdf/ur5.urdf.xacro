@@ -9,12 +9,12 @@
 
   <link name="${prefix}base_link" />
 
-  <joint name="${prefix}ee_fixed_joint" type="fixed">
+  <joint name="${prefix}writs_3_joint" type="fixed">
     <parent link="${prefix}base_link" />
-    <child link = "${prefix}ee_link" />
+    <child link = "${prefix}wrist_3_link" />
     <origin xyz="0 0 0" rpy="0 0 0" />    
   </joint>
-  <link name="${prefix}ee_link" />
+  <link name="${prefix}wrist_3_link" />
 
   </xacro:macro>
 </robot>

@@ -1,0 +1,14 @@
+<package>
+  <description brief="prace_gripper_driver">
+
+     dummy driver for prace_gripper
+
+  </description>
+  <author>IPA320</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/prace_gripper_driver</url>
+
+</package>
+
+

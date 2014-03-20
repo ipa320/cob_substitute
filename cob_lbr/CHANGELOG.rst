@@ -2,8 +2,8 @@
 Changelog for package cob_lbr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.1 (2014-03-20)
+------------------
 * remove pr2_controller_msgs
 * Initial catkin version. Have to find away to fix the rosjava_jni dependency.
 * added service_interface.py

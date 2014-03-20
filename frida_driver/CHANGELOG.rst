@@ -2,8 +2,8 @@
 Changelog for package frida_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.1 (2014-03-20)
+------------------
 * removed obsolete install tags
 * added dummy launch files and removed dummy python driver
 * fix type  in CMakeLists

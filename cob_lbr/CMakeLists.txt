@@ -12,3 +12,16 @@ catkin_package(
     INCLUDE_DIRS # TODO include
     LIBRARIES # TODO
 )
+
+install(DIRECTORY common/
+    DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/common
+)
+
+install(DIRECTORY src/
+    DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/src
+)
+
+install(PROGRAMS src/service_interface.py bin/cob_lbr
+  DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+)
+

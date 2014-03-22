@@ -1,6 +1,6 @@
 <package>
   <name>prace_gripper_driver</name>
-  <version>0.1.0</version>
+  <version>0.5.1</version>
   <description>prace_gripper_driver</description>
   <maintainer email="aub@ipa.fhg.de">Alexander Bubeck</maintainer>
 

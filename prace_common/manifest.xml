@@ -1,0 +1,14 @@
+<package>
+  <description brief="prace_common">
+
+     dummy package for prace_common
+
+  </description>
+  <author>ipa-bnm</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/prace_common</url>
+
+</package>
+
+

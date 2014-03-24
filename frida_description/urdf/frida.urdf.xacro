@@ -23,6 +23,14 @@
 
 	<link name="${name}_right_6_link"/>
 
+	<joint name="${name}_torso_joint" type="fixed" >
+		<insert_block name="origin" />
+		<parent link="${parent}" />
+		<child link="${name}_torso_link" />
+	</joint>
+
+	<link name="${name}_torso_link"/>
+
 	</xacro:macro>
 
 </robot>

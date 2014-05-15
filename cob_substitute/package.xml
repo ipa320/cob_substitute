@@ -1,0 +1,25 @@
+<package>
+  <name>cob_substitute</name>
+  <version>0.5.1</version>
+  <description>cob_substitute</description>
+
+  <license>LGPL</license>
+
+  <url type="website">http://ros.org/wiki/cob_substitute</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <maintainer email="fmw@ipa.fhg.de">Florian Weisshardt</maintainer>
+  <maintainer email="nhg@ipa.fhg.de">Nadia Hammoude Garcia</maintainer>
+  <author email="fmw@ipa.fhg.de">Florian Weisshardt</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>cob_lbr</run_depend>
+
+
+
+
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

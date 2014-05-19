@@ -2,9 +2,9 @@
 \mainpage
 \htmlinclude manifest.html
 
-\b prace_gripper_description 
+\b prace_common
 
-<!-- 
+<!--
 Provide an overview of your package.
 -->
 
@@ -12,3 +12,4 @@ Provide an overview of your package.
 
 
 */
+

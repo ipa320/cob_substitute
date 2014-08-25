@@ -1,6 +1,6 @@
 <package>
   <name>prace_common</name>
-  <version>0.5.1</version>
+  <version>0.5.2</version>
   <description>prace_common substitude package</description>
   <maintainer email="bnm@ipa.fhg.de">Benjamin Maidel</maintainer>
 

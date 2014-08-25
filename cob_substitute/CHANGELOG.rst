@@ -2,8 +2,8 @@
 Changelog for package cob_substitute
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.2 (2014-08-25)
+------------------
 * New maintainer
 * Contributors: ipa-nhg
 

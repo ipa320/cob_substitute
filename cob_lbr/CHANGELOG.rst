@@ -2,8 +2,8 @@
 Changelog for package cob_lbr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.2 (2014-08-25)
+------------------
 * Update package.xml
 * Contributors: Florian Weisshardt
 

@@ -2,6 +2,11 @@
 Changelog for package cob_lbr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.2 (2014-08-25)
+------------------
+* Update package.xml
+* Contributors: Florian Weisshardt
+
 0.5.1 (2014-03-20)
 ------------------
 * remove pr2_controller_msgs

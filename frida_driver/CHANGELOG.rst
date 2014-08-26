@@ -2,6 +2,9 @@
 Changelog for package frida_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.2 (2014-08-25)
+------------------
+
 0.5.1 (2014-03-20)
 ------------------
 * removed obsolete install tags

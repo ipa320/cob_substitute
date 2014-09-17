@@ -2,6 +2,9 @@
 Changelog for package prace_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.5.2 (2014-08-25)
 ------------------
 * update changelog

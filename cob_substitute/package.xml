@@ -14,10 +14,10 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>cob_lbr</run_depend>
-
-
-
-
+  <run_depend>cob_safety_controller</run_depend>
+  <run_depend>frida_driver</run_depend>
+  <run_depend>prace_common</run_depend>
+  <run_depend>prace_gripper_driver</run_depend>
 
   <export>
     <metapackage/>

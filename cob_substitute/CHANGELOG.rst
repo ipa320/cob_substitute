@@ -2,8 +2,8 @@
 Changelog for package cob_substitute
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.1 (2015-06-17)
+------------------
 * Merge pull request `#24 <https://github.com/ipa320/cob_substitute/issues/24>`_ from ipa320/indigo_release_candidate
   Indigo release candidate
 * Merge pull request `#23 <https://github.com/ipa320/cob_substitute/issues/23>`_ from ipa-nhg/indigo_dev

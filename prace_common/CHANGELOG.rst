@@ -2,8 +2,8 @@
 Changelog for package prace_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.1 (2015-06-17)
+------------------
 * beautify CMakeLists
 * Contributors: ipa-fxm
 

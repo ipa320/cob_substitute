@@ -2,8 +2,8 @@
 Changelog for package prace_gripper_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.1 (2015-06-17)
+------------------
 * add missing argument "sim"
   This fixes the roslaunch file check for raw3-3
 * beautify CMakeLists

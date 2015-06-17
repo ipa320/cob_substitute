@@ -2,6 +2,11 @@
 Changelog for package frida_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* beautify CMakeLists
+* Contributors: ipa-fxm
+
 0.6.0 (2014-09-17)
 ------------------
 

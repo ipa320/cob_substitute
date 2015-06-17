@@ -2,6 +2,11 @@
 Changelog for package cob_lbr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* beautify CMakeLists
+* Contributors: ipa-fxm
+
 0.6.0 (2014-09-17)
 ------------------
 

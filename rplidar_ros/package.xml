@@ -1,0 +1,14 @@
+<package>
+  <name>rplidar_ros</name>
+  <version>0.6.1</version>
+  <description>rplidar_ros</description>
+  <maintainer email="frm@ipa.fhg.de">Florian Mirus</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/rplidar_ros</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

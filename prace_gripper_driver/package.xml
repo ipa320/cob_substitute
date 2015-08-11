@@ -1,4 +1,4 @@
-<package>
+<package format="2">
   <name>prace_gripper_driver</name>
   <version>0.6.1</version>
   <description>prace_gripper_driver</description>

@@ -1,4 +1,4 @@
-<package>
+<package format="2">
   <name>rplidar_ros</name>
   <version>0.6.1</version>
   <description>rplidar_ros</description>

@@ -1,4 +1,4 @@
-<package>
+<package format="2">
   <name>frida_driver</name>
   <version>0.6.1</version>
   <description>frida_driver</description>

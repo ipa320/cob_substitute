@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<package>
+<package format="2">
   <name>cob_safety_controller</name>
   <version>0.6.1</version>
   <description>This package is a substitute for the private implementation of cob_safety_controller package</description>
@@ -7,7 +6,7 @@
   <maintainer email="mdl@ipa.fhg.de">Matthias Luedtke</maintainer>
 
   <license>LGPL</license>
-  
+
   <buildtool_depend>catkin</buildtool_depend>
 
 </package>

@@ -2,8 +2,8 @@
 Changelog for package cob_substitute
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.2 (2015-08-25)
+------------------
 * migration to package format 2
 * new substitue package rplidar_ros
 * Contributors: ipa-fxm

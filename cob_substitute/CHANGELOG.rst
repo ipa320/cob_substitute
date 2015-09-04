@@ -2,6 +2,12 @@
 Changelog for package cob_substitute
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.2 (2015-08-25)
+------------------
+* migration to package format 2
+* new substitue package rplidar_ros
+* Contributors: ipa-fxm
+
 0.6.1 (2015-06-17)
 ------------------
 * Merge pull request `#24 <https://github.com/ipa320/cob_substitute/issues/24>`_ from ipa320/indigo_release_candidate

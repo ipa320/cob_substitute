@@ -1,6 +1,6 @@
-<package>
+<package format="2">
   <name>cob_lbr</name>
-  <version>0.5.1</version>
+  <version>0.6.2</version>
   <description>cob_lbr</description>
 
   <license>LGPL</license>
@@ -14,17 +14,4 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <!-- <build_depend>rosjava_jni</build_depend> -->
-
-  <!-- <test_depend>rosjava_jni</test_depend> -->
-  <!-- <test_depend>actionlib</test_depend> -->
-  <!-- <test_depend>cob_srvs</test_depend> -->
-  <!-- <test_depend>brics_actuator</test_depend> -->
-  <!-- <test_depend>trajectory_msgs</test_depend> -->
-  <!-- <test_depend>sensor_msgs</test_depend> -->
-  <!-- <test_depend>diagnostic_msgs</test_depend> -->
-
-  <export>
-
-  </export>
 </package>

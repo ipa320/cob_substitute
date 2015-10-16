@@ -1,5 +1,5 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package frida_driver
+Changelog for package prace_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0.6.2 (2015-08-25)
@@ -20,12 +20,12 @@ Changelog for package frida_driver
 
 0.5.2 (2014-08-25)
 ------------------
+* update changelog
+* fixed install tags
+* reduced prace substitution to one xacro
+* reduced prace substitution to one xacro
+* added substitution for prace_common package
+* Contributors: Florian Weisshardt, ipa-bnm, ipa-fxm
 
-0.5.1 (2014-03-20)
+0.5.1 (2014-03-27)
 ------------------
-* removed obsolete install tags
-* added dummy launch files and removed dummy python driver
-* fix type  in CMakeLists
-* update cob_substitute
-* update cob_substitute
-* Contributors: ipa-fxm, ipa-raw3-3

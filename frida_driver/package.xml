@@ -1,6 +1,6 @@
-<package>
+<package format="2">
   <name>frida_driver</name>
-  <version>0.5.1</version>
+  <version>0.6.2</version>
   <description>frida_driver</description>
   <maintainer email="aub@ipa.fhg.de">Alexander Bubeck</maintainer>
 
@@ -13,7 +13,4 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <export>
-
-  </export>
 </package>

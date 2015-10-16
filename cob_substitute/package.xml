@@ -1,6 +1,6 @@
-<package>
+<package format="2">
   <name>cob_substitute</name>
-  <version>0.5.1</version>
+  <version>0.6.2</version>
   <description>cob_substitute</description>
 
   <license>LGPL</license>
@@ -9,15 +9,17 @@
   <!-- <url type="bugtracker"></url> -->
 
   <maintainer email="fmw@ipa.fhg.de">Florian Weisshardt</maintainer>
-  <maintainer email="nhg@ipa.fhg.de">Nadia Hammoude Garcia</maintainer>
+  <maintainer email="nhg@ipa.fhg.de">Nadia Hammoudeh Garcia</maintainer>
   <author email="fmw@ipa.fhg.de">Florian Weisshardt</author>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <run_depend>cob_lbr</run_depend>
 
-
-
-
+  <exec_depend>cob_lbr</exec_depend>
+  <exec_depend>cob_safety_controller</exec_depend>
+  <exec_depend>frida_driver</exec_depend>
+  <exec_depend>prace_common</exec_depend>
+  <exec_depend>prace_gripper_driver</exec_depend>
+  <exec_depend>rplidar_ros</exec_depend>
 
   <export>
     <metapackage/>

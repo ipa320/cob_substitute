@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(prace_gripper_driver)
+project(prace_common)
 
 find_package(catkin REQUIRED)
 
 catkin_package()
 
-install(DIRECTORY ros
+install(DIRECTORY urdf
     DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )

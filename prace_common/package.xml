@@ -1,0 +1,16 @@
+<package format="2">
+  <name>prace_common</name>
+  <version>0.6.2</version>
+  <description>prace_common substitude package</description>
+  <maintainer email="bnm@ipa.fhg.de">Benjamin Maidel</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/prace_common</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <author email="bnm@ipa.fhg.de">Benjamin Maidel</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

@@ -2,6 +2,9 @@
 Changelog for package prace_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.6.2 (2015-08-25)
 ------------------
 * migration to package format 2

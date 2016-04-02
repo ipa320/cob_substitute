@@ -1,6 +1,6 @@
 <package format="2">
   <name>rplidar_ros</name>
-  <version>0.6.2</version>
+  <version>0.6.3</version>
   <description>rplidar_ros</description>
   <maintainer email="frm@ipa.fhg.de">Florian Mirus</maintainer>
 

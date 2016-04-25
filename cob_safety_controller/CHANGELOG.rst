@@ -12,6 +12,17 @@ Changelog for package cob_safety_controller
 * cleanup
 * Contributors: ipa-fxm
 
+Forthcoming
+-----------
+* 0.6.3
+* update changelog
+* 0.6.2
+* update changelog
+* migration to package format 2
+* remove trailing whitespaces
+* cleanup
+* Contributors: ipa-fxm
+
 0.6.1 (2015-06-17)
 ------------------
 * beautify CMakeLists

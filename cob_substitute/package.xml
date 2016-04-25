@@ -19,7 +19,6 @@
   <exec_depend>frida_driver</exec_depend>
   <exec_depend>prace_common</exec_depend>
   <exec_depend>prace_gripper_driver</exec_depend>
-  <exec_depend>rplidar_ros</exec_depend>
 
   <export>
     <metapackage/>

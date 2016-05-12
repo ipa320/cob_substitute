@@ -1,0 +1,14 @@
+<package format="2">
+  <name>softkinetic_camera</name>
+  <version>0.6.3</version>
+  <description>This package is a substitute for the implementation of softkinetic_camera drivers.</description>
+
+  <maintainer email="flg@ipa.fhg.de">Felipe Garcia Lopez</maintainer>
+  <author email="flg@ipa.fhg.de">Felipe Garcia Lopez</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
+

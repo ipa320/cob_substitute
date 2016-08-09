@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cob_docker_control</name>
+  <version>0.0.0</version>
+  <description>Autonomous docking</description>
+
+  <license>private</license>
+
+  <maintainer email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</maintainer>
+  <author email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

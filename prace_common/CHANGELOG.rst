@@ -13,8 +13,8 @@ Changelog for package prace_common
 * cleanup
 * Contributors: ipa-fxm
 
-Forthcoming
------------
+0.6.5 (2016-10-10)
+------------------
 
 0.6.4 (2016-04-25)
 ------------------

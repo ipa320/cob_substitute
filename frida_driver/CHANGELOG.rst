@@ -13,6 +13,9 @@ Changelog for package frida_driver
 * cleanup
 * Contributors: ipa-fxm
 
+Forthcoming
+-----------
+
 0.6.4 (2016-04-25)
 ------------------
 * 0.6.3

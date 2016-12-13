@@ -2,6 +2,14 @@
 Changelog for package cob_substitute
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.5 (2016-10-10)
+------------------
+
+0.6.4 (2016-04-25)
+------------------
+* remove rplidar_ros
+* Contributors: ipa-mig
+
 0.6.3 (2016-04-01)
 ------------------
 
@@ -10,20 +18,6 @@ Changelog for package cob_substitute
 * migration to package format 2
 * new substitue package rplidar_ros
 * Contributors: ipa-fxm
-
-0.6.5 (2016-10-10)
-------------------
-
-0.6.4 (2016-04-25)
-------------------
-* remove rplidar_ros
-* 0.6.3
-* update changelog
-* 0.6.2
-* update changelog
-* migration to package format 2
-* new substitue package rplidar_ros
-* Contributors: ipa-fxm, ipa-mig
 
 0.6.1 (2015-06-17)
 ------------------

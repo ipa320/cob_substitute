@@ -7,9 +7,6 @@ Changelog for package cob_docker_control
 * add substitution packages for docking
 * Contributors: Florian Weisshardt
 
-* add substitution packages for docking
-* Contributors: Florian Weisshardt
-
 0.6.4 (2016-04-25)
 ------------------
 

@@ -1,0 +1,2 @@
+#!/bin/bash
+echo '########################';echo 'This is just a placeholder for softkinetic_bringup_node, the real package can be installed from source.';echo 'It is available under https://github.com/ipa320/softkinetic, note that it requires the installation of the DepthSenseSDK package.';echo '########################'

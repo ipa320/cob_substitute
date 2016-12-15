@@ -19,6 +19,7 @@
   <exec_depend>frida_driver</exec_depend>
   <exec_depend>prace_common</exec_depend>
   <exec_depend>prace_gripper_driver</exec_depend>
+  <exec_depend>softkinetic_camera</exec_depend>
 
   <export>
     <metapackage/>

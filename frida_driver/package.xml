@@ -1,6 +1,6 @@
 <package format="2">
   <name>frida_driver</name>
-  <version>0.6.3</version>
+  <version>0.6.5</version>
   <description>frida_driver</description>
   <maintainer email="aub@ipa.fhg.de">Alexander Bubeck</maintainer>
 

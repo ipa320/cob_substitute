@@ -14,11 +14,9 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <exec_depend>cob_lbr</exec_depend>
+  <exec_depend>cob_docker_control</exec_depend>
+  <exec_depend>cob_reflector_referencing</exec_depend>
   <exec_depend>cob_safety_controller</exec_depend>
-  <exec_depend>frida_driver</exec_depend>
-  <exec_depend>prace_common</exec_depend>
-  <exec_depend>prace_gripper_driver</exec_depend>
 
   <export>
     <metapackage/>

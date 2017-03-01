@@ -6,7 +6,7 @@ find_package(catkin REQUIRED)
 catkin_package()
 
 install(PROGRAMS
-  scripts/docker_control.py
+  scripts/fake_docking.py
   scripts/multi_station_docker_control.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )

@@ -2,6 +2,12 @@
 Changelog for package cob_substitute
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* remove obsolete packages due to unsupported robots
+* manually fix changelog
+* Contributors: ipa-fxm
+
 0.6.5 (2016-10-10)
 ------------------
 

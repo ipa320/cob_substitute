@@ -2,6 +2,11 @@
 Changelog for package cob_safety_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* manually fix changelog
+* Contributors: ipa-fxm
+
 0.6.5 (2016-10-10)
 ------------------
 

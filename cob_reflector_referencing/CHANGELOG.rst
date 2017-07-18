@@ -2,6 +2,11 @@
 Changelog for package cob_reflector_referencing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* manually fix changelog
+* Contributors: ipa-fxm
+
 0.6.5 (2016-10-10)
 ------------------
 * add substitution packages for docking

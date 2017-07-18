@@ -2,8 +2,8 @@
 Changelog for package cob_docker_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.6 (2017-07-18)
+------------------
 * added fake_docking executable
   removed unused docker_control
 * manually fix changelog

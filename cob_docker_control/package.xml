@@ -4,7 +4,7 @@
   <version>0.6.5</version>
   <description>Autonomous docking</description>
 
-  <license>private</license>
+  <license>Apache 2.0</license>
 
   <maintainer email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</maintainer>
   <author email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</author>

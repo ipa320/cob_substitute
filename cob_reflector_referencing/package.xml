@@ -7,7 +7,7 @@
     It can be used to position/reference a robot wrt to the reflektor markers.
   </description>
 
-  <license>private</license>
+  <license>Apache 2.0</license>
 
   <maintainer email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</maintainer>
   <author email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</author>

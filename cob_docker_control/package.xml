@@ -6,8 +6,7 @@
 
   <license>Apache 2.0</license>
 
-  <maintainer email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</maintainer>
-  <author email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</author>
+  <maintainer email="jba@ipa.fraunhofer.de">Jannik Abbenseth</maintainer>
 
   <buildtool_depend>catkin</buildtool_depend>
 

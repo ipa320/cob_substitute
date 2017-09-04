@@ -3,7 +3,7 @@
   <version>0.6.5</version>
   <description>This package is a substitute for the private implementation of cob_safety_controller package</description>
 
-  <maintainer email="florian.weisshardt@ipa.fraunhofer.de">Florian Weisshardt</maintainer>
+  <maintainer email="jba@ipa.fraunhofer.de">Jannik Abbenseth</maintainer>
 
   <license>Apache 2.0</license>
 

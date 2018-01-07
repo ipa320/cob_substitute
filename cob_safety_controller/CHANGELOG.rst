@@ -2,8 +2,8 @@
 Changelog for package cob_safety_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.7 (2018-01-07)
+------------------
 * Merge pull request `#50 <https://github.com/ipa320/cob_substitute/issues/50>`_ from ipa320/indigo_release_candidate
   Indigo release candidate
 * Merge pull request `#49 <https://github.com/ipa320/cob_substitute/issues/49>`_ from ipa-fxm/fix_flexisoft_sim

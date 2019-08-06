@@ -2,6 +2,9 @@
 Changelog for package cob_docker_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.6.7 (2018-01-07)
 ------------------
 * Merge pull request `#50 <https://github.com/ipa320/cob_substitute/issues/50>`_ from ipa320/indigo_release_candidate

@@ -2,6 +2,9 @@
 Changelog for package cob_safety_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.8 (2019-08-06)
+------------------
+
 0.6.7 (2018-01-07)
 ------------------
 * Merge pull request `#50 <https://github.com/ipa320/cob_substitute/issues/50>`_ from ipa320/indigo_release_candidate

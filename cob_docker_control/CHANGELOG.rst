@@ -2,6 +2,13 @@
 Changelog for package cob_docker_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.9 (2020-03-18)
+------------------
+* Merge pull request `#55 <https://github.com/ipa320/cob_substitute/issues/55>`_ from fmessmer/feature/python3_compatibility
+  [ci_updates] pylint + Python3 compatibility
+* python3 compatibility via 2to3
+* Contributors: Felix Messmer, fmessmer
+
 0.6.8 (2019-08-06)
 ------------------
 

@@ -2,6 +2,9 @@
 Changelog for package cob_reflector_referencing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.6.8 (2019-08-06)
 ------------------
 

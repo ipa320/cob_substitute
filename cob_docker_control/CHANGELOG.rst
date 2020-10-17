@@ -2,6 +2,13 @@
 Changelog for package cob_docker_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#56 <https://github.com/ipa320/cob_substitute/issues/56>`_ from fmessmer/test_noetic
+  test noetic
+* Bump CMake version to avoid CMP0048 warning
+* Contributors: Felix Messmer, fmessmer
+
 0.6.9 (2020-03-18)
 ------------------
 * Merge pull request `#55 <https://github.com/ipa320/cob_substitute/issues/55>`_ from fmessmer/feature/python3_compatibility

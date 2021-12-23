@@ -2,6 +2,9 @@
 Changelog for package cob_safety_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.6.10 (2020-10-17)
 -------------------
 * Merge pull request `#56 <https://github.com/ipa320/cob_substitute/issues/56>`_ from fmessmer/test_noetic

@@ -1,0 +1,12 @@
+<package format="2">
+  <name>ipa_differential_docking</name>
+  <version>0.6.11</version>
+  <description>This package is a substitute for the private implementation of ipa_differential_docking package</description>
+
+  <maintainer email="felixmessmer@googlemail.com">Felix Messmer</maintainer>
+
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

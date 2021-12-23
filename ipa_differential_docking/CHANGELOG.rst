@@ -2,8 +2,8 @@
 Changelog for package ipa_differential_docking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.11 (2021-12-23)
+-------------------
 * Merge pull request `#57 <https://github.com/ipa320/cob_substitute/issues/57>`_ from fmessmer/substitute/ipa_differential_docking
   substitute for ipa_differential_docking
 * substitute for ipa_differential_docking

@@ -2,6 +2,9 @@
 Changelog for package cob_reflector_referencing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.6.12 (2022-07-29)
 -------------------
 
